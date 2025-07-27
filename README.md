@@ -13,4 +13,3 @@
 ## ✅ Git SkillUp Certificate (by Simplilearn)
 ![Git Certificate](https://github.com/PrashantKumar5201283/5201283_Prashant-Kumar/blob/main/Git/5201283_Prashant_Kumar.png)
 📄 [🔗 View Certificate PDF](https://github.com/PrashantKumar5201283/5201283_Prashant-Kumar/blob/main/Git/5201283_Prashant%20Kumar.pdf)
-https://github.com/PrashantKumar5201283/5201283_Prashant-Kumar/blob/main/Git/5201283_Prashant_Kumar.png
