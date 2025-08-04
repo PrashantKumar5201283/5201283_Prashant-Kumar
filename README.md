@@ -21,5 +21,5 @@
 
 ## ✅ C Programing Certificate (by Sololearn)
 
-![C Programing Certificate](https://github.com/PrashantKumar5201283/5201283_Prashant-Kumar/blob/main/c%20programing/274600fa-fe95-4546-adb1-ba37eed13d07.jpg)
+![C Programing Certificate](https://github.com/PrashantKumar5201283/5201283_Prashant-Kumar/blob/main/c%20programing/5201283_Prashant Kumar C programing certificate.jpg)
 📄 [🔗 View Certificate PDF](https://github.com/PrashantKumar5201283/5201283_Prashant-Kumar/blob/main/c%20programing/0f8ca082-ae8f-4cec-9bba-14134a35f12f.pdf)
