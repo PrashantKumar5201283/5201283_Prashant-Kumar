@@ -7,8 +7,6 @@ int main()
   int b = 20;
   int c = sum(a, b);
   int d = square(a);
-  int f = divide(b, a);
-  printf("divide of %d and %d is %d\n", b, a, f);
   printf("sum of %d and %d is %d\n", a, b, c);
   printf("square of %d is %d\n", a, d);
   return 0;
