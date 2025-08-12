@@ -25,7 +25,7 @@
 
 
 # test commands
-Object.o :main.c sum.c square.c divide.c unity.c
+Object.o :main.c sum.c square.c divide.c unity.c 
 	gcc $^ -c
 all:main.o sum.o square.o divide.o unity.object
 	gcc $^ -o all.out
