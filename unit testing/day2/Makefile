@@ -1,5 +1,6 @@
 # target name : dependencies
 # <tab> commands to generate target
+#$? expands to: All prerequisites newer than the target
 
 
 # SRCS =main.c sum.c square.c divide.c
